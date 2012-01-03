@@ -200,7 +200,7 @@ table { border-collapse: collapse; border-spacing: 0; }
    Author: Aaron Boushley
    ========================================================================== */
 
-body { background-color: #544B4B; color: #F6F3E8; }
+body { background: #524A4C url('../img/tile.png'); color: #F6F3E8; }
 
 h1 { font-size: 46px; border-bottom: 1px solid #F6F3E8; }
 h5 { font-size: 16px; }
