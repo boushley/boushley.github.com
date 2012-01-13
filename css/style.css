@@ -204,6 +204,7 @@ body { background: #524A4C url('../img/tile.png'); color: #F6F3E8; }
 
 h1 { font-size: 46px; border-bottom: 1px solid #F6F3E8; }
 h5 { font-size: 16px; }
+h6 { font-size: 1em; font-weight: normal; }
 
 #container { width: 960px; margin: auto; }
 
